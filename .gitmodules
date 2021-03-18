@@ -3,3 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "tidySEM"]
+	path = tidySEM
+	url = https://github.com/cjvanlissa/tidysem
+	shallow = true
+[submodule "worcs"]
+	path = worcs
+	url = https://github.com/cjvanlissa/worcs
+	shallow = true
