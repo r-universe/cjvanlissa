@@ -7,7 +7,9 @@
 	path = tidySEM
 	url = https://github.com/cjvanlissa/tidysem
 	shallow = true
+	registered = true
 [submodule "worcs"]
 	path = worcs
 	url = https://github.com/cjvanlissa/worcs
 	shallow = true
+	registered = true
