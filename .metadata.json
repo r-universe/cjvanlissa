@@ -1,0 +1,10 @@
+[
+  {
+    "package": "tidySEM",
+    "oncran": true
+  },
+  {
+    "package": "worcs",
+    "oncran": true
+  }
+]
