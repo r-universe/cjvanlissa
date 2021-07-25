@@ -1,10 +1,37 @@
 [
   {
+    "package": "MplusAutomation",
+    "oncran": false
+  },
+  {
+    "package": "tidyLPA",
+    "oncran": false
+  },
+  {
+    "package": "bain",
+    "oncran": false
+  },
+  {
+    "package": "BFpack",
+    "oncran": false
+  },
+  {
+    "package": "metaforest",
+    "oncran": false
+  },
+  {
     "package": "tidySEM",
     "oncran": true
   },
   {
+    "package": "gorica",
+    "oncran": false
+  },
+  {
     "package": "worcs",
     "oncran": true
+  },
+  {
+    "package": "pema"
   }
 ]
