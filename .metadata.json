@@ -1,5 +1,9 @@
 [
   {
+    "package": "mice",
+    "oncran": false
+  },
+  {
     "package": "MplusAutomation",
     "oncran": false
   },
