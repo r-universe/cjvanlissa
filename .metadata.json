@@ -28,8 +28,7 @@
     "oncran": true
   },
   {
-    "package": "gorica",
-    "oncran": false
+    "package": "gorica"
   },
   {
     "package": "worcs",
