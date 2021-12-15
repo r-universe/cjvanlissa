@@ -35,6 +35,7 @@
     "oncran": true
   },
   {
-    "package": "pema"
+    "package": "pema",
+    "oncran": false
   }
 ]
