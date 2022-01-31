@@ -24,8 +24,7 @@
     "oncran": false
   },
   {
-    "package": "tidySEM",
-    "oncran": true
+    "package": "tidySEM"
   },
   {
     "package": "gorica",
