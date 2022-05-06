@@ -1,13 +1,5 @@
 [
   {
-    "package": "mice",
-    "oncran": false
-  },
-  {
-    "package": "MplusAutomation",
-    "oncran": false
-  },
-  {
     "package": "tidyLPA",
     "oncran": false
   },
