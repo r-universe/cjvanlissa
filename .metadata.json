@@ -13,7 +13,7 @@
   },
   {
     "package": "metaforest",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "tidySEM",
@@ -21,7 +21,7 @@
   },
   {
     "package": "gorica",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "worcs",
