@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/cjvanlissa/universe
-	shallow = true
 	branch = HEAD
 [submodule "tidyLPA"]
 	path = tidyLPA
 	url = https://github.com/cjvanlissa/tidyLPA
-	shallow = true
-	registered = true
 [submodule "bain"]
 	path = bain
 	url = https://github.com/cjvanlissa/bain
-	shallow = true
-	registered = true
 [submodule "BFpack"]
 	path = BFpack
 	url = https://github.com/cjvanlissa/BFpack
-	shallow = true
-	registered = true
 [submodule "metaforest"]
 	path = metaforest
 	url = https://github.com/cjvanlissa/metaforest
-	shallow = true
-	registered = true
 [submodule "tidySEM"]
 	path = tidySEM
 	url = https://github.com/cjvanlissa/tidySEM
-	shallow = true
-	registered = true
 [submodule "gorica"]
 	path = gorica
 	url = https://github.com/cjvanlissa/gorica
-	shallow = true
-	registered = true
 [submodule "worcs"]
 	path = worcs
 	url = https://github.com/cjvanlissa/worcs
-	shallow = true
-	registered = true
 [submodule "pema"]
 	path = pema
 	url = https://github.com/cjvanlissa/pema
-	shallow = true
-	registered = true
