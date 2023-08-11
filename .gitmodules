@@ -2,27 +2,27 @@
 	path = .registry
 	url = https://github.com/cjvanlissa/universe
 	branch = HEAD
-[submodule "tidyLPA"]
-	path = tidyLPA
-	url = https://github.com/cjvanlissa/tidyLPA
-[submodule "bain"]
-	path = bain
-	url = https://github.com/cjvanlissa/bain
 [submodule "BFpack"]
 	path = BFpack
 	url = https://github.com/cjvanlissa/BFpack
-[submodule "metaforest"]
-	path = metaforest
-	url = https://github.com/cjvanlissa/metaforest
-[submodule "tidySEM"]
-	path = tidySEM
-	url = https://github.com/cjvanlissa/tidySEM
+[submodule "bain"]
+	path = bain
+	url = https://github.com/cjvanlissa/bain
 [submodule "gorica"]
 	path = gorica
 	url = https://github.com/cjvanlissa/gorica
-[submodule "worcs"]
-	path = worcs
-	url = https://github.com/cjvanlissa/worcs
+[submodule "metaforest"]
+	path = metaforest
+	url = https://github.com/cjvanlissa/metaforest
 [submodule "pema"]
 	path = pema
 	url = https://github.com/cjvanlissa/pema
+[submodule "tidyLPA"]
+	path = tidyLPA
+	url = https://github.com/cjvanlissa/tidyLPA
+[submodule "tidySEM"]
+	path = tidySEM
+	url = https://github.com/cjvanlissa/tidySEM
+[submodule "worcs"]
+	path = worcs
+	url = https://github.com/cjvanlissa/worcs
