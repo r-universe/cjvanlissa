@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/cjvanlissa/universe
+	url = https://github.com/cjvanlissa/cjvanlissa.r-universe.dev
 	branch = HEAD
 [submodule "BFpack"]
 	path = BFpack
